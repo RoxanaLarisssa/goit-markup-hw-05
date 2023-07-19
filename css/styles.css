@@ -68,6 +68,7 @@ ul {
   letter-spacing: 0.28px;
   display: block;
   transition: var(--transition);
+  text-decoration:none;
 }
 .header-link:hover,
 .header-link:focus {
@@ -81,6 +82,7 @@ ul {
   font-weight: 700;
   letter-spacing: 0.78px;
   display: flex;
+  text-decoration:none;
 }
 .header-half-logo {
   color: #2196f3;
@@ -88,6 +90,7 @@ ul {
 .header-contact {
   display: flex;
   gap: 40px;  
+
 }
 
 .header-cont-link {
@@ -98,6 +101,7 @@ ul {
   letter-spacing: 0.28px;
   align-items: center;
   transition: var(--transition);
+  text-decoration:none;
 }
 .header-cont-link:hover,
 .header-cont-link:focus {
@@ -340,6 +344,7 @@ ul {
   letter-spacing: 0.78px;
   display: inline-block;
   margin-bottom: 28px;
+  text-decoration:none;
  
 }
 .footer-half-logo {
@@ -358,6 +363,7 @@ ul {
   font-family: var(--text-font-family);
   letter-spacing: 0.42px;
   margin-bottom: 12px;
+  text-decoration:none;
 }
 .footer-contacts:hover,
 .footer-contacts:focus {
